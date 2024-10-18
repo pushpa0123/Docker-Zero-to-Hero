@@ -1,16 +1,14 @@
-# Docker Commands
+Docker Commands
 
-Some of the most commonly used docker commands are 
-
-### docker images
+Some of the most commonly used docker commands docker images
 
 Lists docker images on the host machine.
 
-### docker build
+ docker build
 
-Builds image from Dockerfile.
+Builds image from Docker file.
 
-### docker run
+docker run
 
 Runs a Docker container. 
 
@@ -21,7 +19,7 @@ There are many arguments which you can pass to this command for example,
 
 use `docker run --help` to look into more arguments.
 
-### docker ps
+ docker ps
 
 Lists running containers on the host machine.
 
